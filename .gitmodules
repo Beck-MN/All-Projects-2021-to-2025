@@ -10,3 +10,6 @@
 [submodule "CSCI-Projects-Spring-2023"]
 	path = CSCI-Projects-Spring-2023
 	url = https://github.com/Beck-MN/CSCI-Projects-Spring-2023
+[submodule "SE-Projects-Spring-2023"]
+	path = SE-Projects-Spring-2023
+	url = https://github.com/Beck-MN/SE-Projects-Spring-2023.git

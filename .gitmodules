@@ -16,3 +16,6 @@
 [submodule "CSCI_221-Projects-Spring-2022"]
 	path = CSCI_221-Projects-Spring-2022
 	url = https://github.com/Beck-MN/CSCI_221-Projects-Spring-2022.git
+[submodule "CSCI_301-Projects-Spring-2023"]
+	path = CSCI_301-Projects-Spring-2023
+	url = https://github.com/Beck-MN/CSCI_301-Projects-Spring-2023.git

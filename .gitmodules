@@ -1,16 +1,16 @@
-[submodule "SE-Projects-Fall-2021"]
+[submodule "SE_145-Projects-Fall-2021"]
 	path = SE-Projects-Fall-2021
 	url = https://github.com/Beck-MN/SE-Projects-Fall-2021
-[submodule "SE-Projects-Fall-2022"]
+[submodule "SE_250-Projects-Fall-2022"]
 	path = SE-Projects-Fall-2022
 	url = https://github.com/Beck-MN/SE-Projects-Fall-2022
-[submodule "CSCI-Projects-Spring-2022"]
+[submodule "CSCI_221-Projects-Spring-2022"]
 	path = CSCI-Projects-Spring-2022
 	url = https://github.com/Beck-MN/CSCI-Projects-Spring-2022
 [submodule "CSCI-Projects-Spring-2023"]
 	path = CSCI-Projects-Spring-2023
 	url = https://github.com/Beck-MN/CSCI-Projects-Spring-2023
-[submodule "SE-Projects-Spring-2023"]
+[submodule "SE_450-Projects-Spring-2023"]
 	path = SE-Projects-Spring-2023
 	url = https://github.com/Beck-MN/SE-Projects-Spring-2023.git
 [submodule "CSCI_221-Projects-Spring-2022"]

@@ -16,3 +16,12 @@
 [submodule "CSCI_301-Projects-Spring-2023"]
 	path = CSCI_301-Projects-Spring-2023
 	url = https://github.com/Beck-MN/CSCI_301-Projects-Spring-2023.git
+[submodule "CSCI_310-Projects-Fall-2023"]
+	path = CSCI_310-Projects-Fall-2023
+	url = https://github.com/Beck-MN/CSCI_310-Projects-Fall-2023.git
+[submodule "SE_266-Projects-Fall-2023"]
+	path = SE_266-Projects-Fall-2023
+	url = https://github.com/Beck-MN/SE_266-Projects-Fall-2023.git
+[submodule "STAT_353-Projects-Fall-2023"]
+	path = STAT_353-Projects-Fall-2023
+	url = https://github.com/Beck-MN/STAT_353-Projects-Fall-2023.git
